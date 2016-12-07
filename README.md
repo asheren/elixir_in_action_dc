@@ -2,30 +2,30 @@ A repository to keep notes as we read and work through each chapter in the book 
 
 December 1, 2016 - March 2, 2017
 
-*Book Club Participants and Assigned Chapters*
+## Book Club Participants and Assigned Chapters
 
-1- Kianoosh
+1. **Kianoosh** :: *First steps*
 
-2- Geoff
+2. **Anthony** :: *Building blocks*
 
-3- Allison
+3. **Allison** :: *Control flow*
 
-4- Anthony
+4. **Geoff** :: *Data abstractions*
 
-5- Hugo
+5. **Hugo** :: *Concurrency primitives*
 
-6- Hugo
+6. **Hugo** :: *Generic server processes*
 
-7- Tim
+7. **Tim** :: *Building a concurrent system*
 
-8- Howard
+8. **Howard** :: *Fault-tolerance basics*
 
-9- Chris
+9. **Chris** :: *Isolating error effects*
 
-10- Nathan
+10. **Nathan** :: *Sharing state*
 
-11- Corey
+11. **Corey** :: *Working with components*
 
-12- Chris
+12. **Chris** :: *Building a distributed system*
 
-13- Anthony
+13. **Anthony** :: *Running the system*
