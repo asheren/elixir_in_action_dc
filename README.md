@@ -2,9 +2,9 @@ A repository to keep notes as we read and work through each chapter in the book 
 
 December 1, 2016 - March 2, 2017
 
-## Book Club Participants and Assigned Chapters
+## Book Club [Participants](people.md) and Assigned Chapters
 
-1. **Kianoosh** :: *First steps*
+1. **Kianoosh** :: [*First steps*](chapter-1.md)
 
 2. **Anthony** :: *Building blocks*
 
