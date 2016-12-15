@@ -6,21 +6,21 @@ December 1, 2016 - March 2, 2017
 
 1. **Kianoosh** :: [*First steps*](chapter-1.md)
 
-2. **Anthony** :: *Building blocks*
+2. **Anthony** :: [*Building blocks*](chapter_2_notes.md)
 
 3. **Allison** :: *Control flow*
 
 4. **Geoff** :: *Data abstractions*
 
-5. **Hugo** :: *Concurrency primitives*
+5. **Anthony** :: *Concurrency primitives*
 
-6. **Hugo** :: *Generic server processes*
+6. **Chris** :: *Generic server processes*
 
 7. **Tim** :: *Building a concurrent system*
 
 8. **Howard** :: *Fault-tolerance basics*
 
-9. **Chris** :: *Isolating error effects*
+9. **Hugo** :: *Isolating error effects*
 
 10. **Nathan** :: *Sharing state*
 
@@ -28,4 +28,4 @@ December 1, 2016 - March 2, 2017
 
 12. **Chris** :: *Building a distributed system*
 
-13. **Anthony** :: *Running the system*
+13. **Hugo** :: *Running the system*
