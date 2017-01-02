@@ -4,13 +4,13 @@ December 1, 2016 - March 2, 2017
 
 ## Book Club [Participants](people.md) and Assigned Chapters
 
-1. **Kianoosh** :: [*First steps*](chapter-1.md)
+1. **Kianoosh** :: [*First steps*](chapter_1_notes.md)
 
 2. **Anthony** :: [*Building blocks*](chapter_2_notes.md)
 
 3. **Allison** :: *Control flow*
 
-4. **Geoff** :: *Data abstractions*
+4. **Geoff** :: [*Data abstractions*](chapter_4_notes.md)
 
 5. **Anthony** :: *Concurrency primitives*
 
