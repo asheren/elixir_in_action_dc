@@ -9,5 +9,6 @@ Here are the people involved in this activity and a little about them
 - **Geoff** :: Ruby/js :: more elixir than rails at work nowadays :: thoughtbot using phoenix rather than rails for greenfield apps
 - **Howard** :: Ruby dev 
 - **Hugo** :: .net :: programming elixir/phoenix book.. tutorials mostly.. perf test 
+- **Kianoosh** :: Java/Javascript.. here for the concepts
 - **Nathan** :: ruby/clojure bits of php/java.. side projects
 - **Tim** :: ruby/js : wants to focus on OTP
