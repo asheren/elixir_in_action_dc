@@ -1,11 +1,5 @@
 ## Chapter 5. Concurrency Primitives
 
-
-
-
-
-------------
-
 * new section of book, delves into the erlangy side of elixir
 
 
