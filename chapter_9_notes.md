@@ -25,7 +25,8 @@ Idea: take examples of use from the book, turn into test cases
 
 Example test code:
 
-```elixir <test/todo/database_worker_test.exs>
+test/todo/database_worker_test.exs:
+```elixir
 defmodule Todo.DatabaseWorkerTest do
   use ExUnit.Case
   doctest Todo.DatabaseWorker
@@ -37,7 +38,8 @@ defmodule Todo.DatabaseWorkerTest do
 end
 ```
 
-```elixir <test/test_helper.exs>
+test/test_helper.exs:
+```elixir 
 ExUnit.start()
 ```
 
